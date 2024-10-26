@@ -1,0 +1,40 @@
+The following are the graphical (non-control) characters defined by
+ISO 8859-1 (1987).  Descriptions in words aren't all that helpful,
+but they're the best we can do in text.  A graphics file illustrating
+the character set should be available from the same archive as this
+file.
+
+Hex Description                 Hex Description
+
+20  SPACE
+21  EXCLAMATION MARK            A1  INVERTED EXCLAMATION MARK
+22  QUOTATION MARK              A2  CENT SIGN
+23  NUMBER SIGN                 A3  POUND SIGN
+24  DOLLAR SIGN                 A4  CURRENCY SIGN
+25  PERCENT SIGN                A5  YEN SIGN
+26  AMPERSAND                   A6  BROKEN BAR
+27  APOSTROPHE                  A7  SECTION SIGN
+28  LEFT PARENTHESIS            A8  DIAERESIS
+29  RIGHT PARENTHESIS           A9  COPYRIGHT SIGN
+2A  ASTERISK                    AA  FEMININE ORDINAL INDICATOR
+2B  PLUS SIGN                   AB  LEFT-POINTING DOUBLE ANGLE QUOTATION MARK
+2C  COMMA                       AC  NOT SIGN
+2D  HYPHEN-MINUS                AD  SOFT HYPHEN
+2E  FULL STOP                   AE  REGISTERED SIGN
+2F  SOLIDUS                     AF  OVERLINE
+30  DIGIT ZERO                  B0  DEGREE SIGN
+31  DIGIT ONE                   B1  PLUS-MINUS SIGN
+32  DIGIT TWO                   B2  SUPERSCRIPT TWO
+33  DIGIT THREE                 B3  SUPERSCRIPT THREE
+34  DIGIT FOUR                  B4  ACUTE ACCENT
+35  DIGIT FIVE                  B5  MICRO SIGN
+36  DIGIT SIX                   B6  PILCROW SIGN
+37  DIGIT SEVEN                 B7  MIDDLE DOT
+38  DIGIT EIGHT                 B8  CEDILLA
+39  DIGIT NINE                  B9  SUPERSCRIPT ONE
+3A  COLON                       BA  MASCULINE ORDINAL INDICATOR
+3B  SEMICOLON                   BB  RIGHT-POINTING DOUBLE ANGLE QUOTATION MARK
+3C  LESS-THAN SIGN              BC  VULGAR FRACTION ONE QUARTER
+3D  EQUALS SIGN                 BD  VULGAR FRACTION ONE HALF
+3E  GREATER-THAN SIGN           BE  VULGAR FRACTION THREE QUARTERS
+3F  QUESTION MARK               BF  INVERTED QUESTION MARK

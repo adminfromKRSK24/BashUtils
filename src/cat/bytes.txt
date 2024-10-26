@@ -1,0 +1,130 @@
+is 0 0		� is 128 80
+ is 1 1		� is 129 81
+ is 2 2		� is 130 82
+ is 3 3		� is 131 83
+ is 4 4		� is 132 84
+ is 5 5		� is 133 85
+ is 6 6		� is 134 86
+ is 7 7		� is 135 87
+ is 8 8		� is 136 88
+	 is 9 9		� is 137 89
+
+ is 10 a		� is 138 8a
+ is 11 b		� is 139 8b
+ is 12 c		� is 140 8c
+
+ is 13 d		� is 141 8d
+ is 14 e		� is 142 8e
+ is 15 f		� is 143 8f
+ is 16 10		� is 144 90
+ is 17 11		� is 145 91
+ is 18 12		� is 146 92
+ is 19 13		� is 147 93
+ is 20 14		� is 148 94
+ is 21 15		� is 149 95
+ is 22 16		� is 150 96
+ is 23 17		� is 151 97
+ is 24 18		� is 152 98
+ is 25 19		� is 153 99
+ is 26 1a		� is 154 9a
+ is 27 1b		� is 155 9b
+ is 28 1c		� is 156 9c
+ is 29 1d		� is 157 9d
+ is 30 1e		� is 158 9e
+ is 31 1f		� is 159 9f
+  is 32 20		� is 160 a0
+! is 33 21		� is 161 a1
+" is 34 22		� is 162 a2
+# is 35 23		� is 163 a3
+$ is 36 24		� is 164 a4
+% is 37 25		� is 165 a5
+& is 38 26		� is 166 a6
+' is 39 27		� is 167 a7
+( is 40 28		� is 168 a8
+) is 41 29		� is 169 a9
+* is 42 2a		� is 170 aa
++ is 43 2b		� is 171 ab
+, is 44 2c		� is 172 ac
+- is 45 2d		� is 173 ad
+. is 46 2e		� is 174 ae
+/ is 47 2f		� is 175 af
+0 is 48 30		� is 176 b0
+1 is 49 31		� is 177 b1
+2 is 50 32		� is 178 b2
+3 is 51 33		� is 179 b3
+4 is 52 34		� is 180 b4
+5 is 53 35		� is 181 b5
+6 is 54 36		� is 182 b6
+7 is 55 37		� is 183 b7
+8 is 56 38		� is 184 b8
+9 is 57 39		� is 185 b9
+: is 58 3a		� is 186 ba
+; is 59 3b		� is 187 bb
+< is 60 3c		� is 188 bc
+= is 61 3d		� is 189 bd
+> is 62 3e		� is 190 be
+? is 63 3f		� is 191 bf
+@ is 64 40		� is 192 c0
+A is 65 41		� is 193 c1
+B is 66 42		� is 194 c2
+C is 67 43		� is 195 c3
+D is 68 44		� is 196 c4
+E is 69 45		� is 197 c5
+F is 70 46		� is 198 c6
+G is 71 47		� is 199 c7
+H is 72 48		� is 200 c8
+I is 73 49		� is 201 c9
+J is 74 4a		� is 202 ca
+K is 75 4b		� is 203 cb
+L is 76 4c		� is 204 cc
+M is 77 4d		� is 205 cd
+N is 78 4e		� is 206 ce
+O is 79 4f		� is 207 cf
+P is 80 50		� is 208 d0
+Q is 81 51		� is 209 d1
+R is 82 52		� is 210 d2
+S is 83 53		� is 211 d3
+T is 84 54		� is 212 d4
+U is 85 55		� is 213 d5
+V is 86 56		� is 214 d6
+W is 87 57		� is 215 d7
+X is 88 58		� is 216 d8
+Y is 89 59		� is 217 d9
+Z is 90 5a		� is 218 da
+[ is 91 5b		� is 219 db
+\ is 92 5c		� is 220 dc
+] is 93 5d		� is 221 dd
+^ is 94 5e		� is 222 de
+_ is 95 5f		� is 223 df
+` is 96 60		� is 224 e0
+a is 97 61		� is 225 e1
+b is 98 62		� is 226 e2
+c is 99 63		� is 227 e3
+d is 100 64		� is 228 e4
+e is 101 65		� is 229 e5
+f is 102 66		� is 230 e6
+g is 103 67		� is 231 e7
+h is 104 68		� is 232 e8
+i is 105 69		� is 233 e9
+j is 106 6a		� is 234 ea
+k is 107 6b		� is 235 eb
+l is 108 6c		� is 236 ec
+m is 109 6d		� is 237 ed
+n is 110 6e		� is 238 ee
+o is 111 6f		� is 239 ef
+p is 112 70		� is 240 f0
+q is 113 71		� is 241 f1
+r is 114 72		� is 242 f2
+s is 115 73		� is 243 f3
+t is 116 74		� is 244 f4
+u is 117 75		� is 245 f5
+v is 118 76		� is 246 f6
+w is 119 77		� is 247 f7
+x is 120 78		� is 248 f8
+y is 121 79		� is 249 f9
+z is 122 7a		� is 250 fa
+{ is 123 7b		� is 251 fb
+| is 124 7c		� is 252 fc
+} is 125 7d		� is 253 fd
+~ is 126 7e		� is 254 fe
+ is 127 7f		� is 255 ff

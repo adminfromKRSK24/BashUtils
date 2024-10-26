@@ -1,0 +1,9 @@
+root@nm3:/ # grep ".*" test.txt
+on two three on
+seven eight one eight three
+thirteen fourteen fifteen
+
+ sixteen seventeen eighteen seven
+sixteen seventeen eighteen
+        twenty seven
+        
